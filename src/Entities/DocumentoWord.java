@@ -11,7 +11,7 @@ public class DocumentoWord implements Imprimivel, Salvavel {
     }
 
     @Override
-    public void salvavel() {
+    public void salvar() {
         System.out.println("Salvando Documento Word");
     }
 }
