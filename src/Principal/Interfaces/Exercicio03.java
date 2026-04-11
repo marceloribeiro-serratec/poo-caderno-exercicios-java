@@ -4,8 +4,11 @@
 
 package Principal.Interfaces;
 
+import Entities.Sobre;
+
 public class Exercicio03 {
     public static void main(String[] args) {
-
+        Sobre sobre = new Sobre();
+        sobre.exibirInfo();
     }
 }
