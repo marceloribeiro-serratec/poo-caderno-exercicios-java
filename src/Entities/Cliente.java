@@ -1,5 +1,6 @@
 package Entities;
 
+import Entities.Base.Usuario;
 import Interfaces.Autenticavel;
 
 public class Cliente extends Usuario implements Autenticavel {

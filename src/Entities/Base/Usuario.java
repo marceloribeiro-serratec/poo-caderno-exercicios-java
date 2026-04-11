@@ -1,4 +1,4 @@
-package Entities;
+package Entities.Base;
 
 public abstract class Usuario {
     protected String nome;
